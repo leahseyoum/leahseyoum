@@ -93,6 +93,7 @@ About Me :
 </a> 
 <br></br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leahseyoum&theme=dark)](https://git.io/streak-stats) 
 <!--
 **leahseyoum/leahseyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
