@@ -11,11 +11,11 @@
 </a>  
 <br></br>
 
-<a href="https://pinspo-8e2f26124196.herokuapp.com/">
+<a href="https://github.com/leahseyoum/Pinspo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leahseyoum&repo=Pinspo&theme=tokyonight" />
 </a> 
 <br></br>
-<a href="https://leahseyoum.github.io/solar-system-visualization/">
+<a href="https://github.com/leahseyoum/solar-system-visualization">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leahseyoum&repo=solar-system-visualization&theme=tokyonight" />
 	
