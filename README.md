@@ -1,5 +1,5 @@
 ### Hi, I'm Leah Seyoum, Welcome to my profile! 👋
-[Email Me](mailto:leahseyoum@gmail.com) [LinkedIn](https://www.linkedin.com/in/leah-seyoum-958288277/)
+[Email Me](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail&logoColor=white&link=mailto:leahseyoum@gmail.com) [LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/leah-seyoum-958288277/)
 
 
 ### Tech Stack
