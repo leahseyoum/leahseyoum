@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Leah Seyoum, Welcome to my profile! 👋
+[Email Me](mailto:leahseyoum@gmail.com) [LinkedIn](https://www.linkedin.com/in/leah-seyoum-958288277/)
+
+
+### Tech Stack
+
+### Featured Porjects
 
 <!--
 **leahseyoum/leahseyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
