@@ -97,6 +97,7 @@ Some of my hobbies include reading science fiction, playing tennis, discovering 
 	
 </a> 
 <br></br>
+<h2>:fire: Stats</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leahseyoum&theme=dark)](https://git.io/streak-stats) 
 <!--
