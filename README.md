@@ -1,10 +1,10 @@
 ### Hi, I'm Leah Seyoum, Welcome to my profile! 👋
-[Email Me](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail&logoColor=white&link=mailto:leahseyoum@gmail.com) [LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/leah-seyoum-958288277/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leahseyoum@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leah-seyoum-958288277/)
 
 
 ### Tech Stack
 
-### Featured Porjects
+### Featured Projects
 
 <!--
 **leahseyoum/leahseyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
