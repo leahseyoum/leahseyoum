@@ -19,5 +19,3 @@ Some of my hobbies include reading science fiction, playing tennis, discovering 
 <br></br>
 <h2>:fire: Stats</h2>
 
-![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=leahseyoum&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
